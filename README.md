@@ -89,9 +89,3 @@ Book browse/borrow, auth, admin CRUD for books/users.
 I’m open to pairing on backend services, database design, and real‑time features. PRs and reviews are welcome on pinned projects.
 
 ---
-
-### Quick Start (for you)
-1. Create a **public** repo named **`aryanseth9795`** (exact GitHub handle).  
-2. Add `README.md` with this content.  
-3. Pin the three featured projects (and any two more you like).  
-4. Keep commits regular and meaningful; add CI badges to active repos.  
