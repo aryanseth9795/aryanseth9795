@@ -1,120 +1,261 @@
-<h1 align="center">Hi, I’m Aryan Seth 👋</h1>
-<p align="center"><b>SDE Intern (GenAI / Full-Stack)</b> • MERN & TypeScript • Real-time systems • Secure APIs • Scalable data models</p>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:iiitianaryan@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-iiitianaryan%40gmail.com-EA4335?logo=gmail&logoColor=white">
-  </a>
-  <a href="https://aryanseth.in">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-aryanseth.in-000000?logo=vercel&logoColor=white">
-  </a>
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aryan%20Seth&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20GenAI%20Engineer%20%7C%20Real-Time%20Systems&descAlignY=58&descSize=18" width="100%"/>
+
+<!-- ANIMATED TYPING -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+real-time+systems+since+day+1+%F0%9F%9A%80;GenAI+apps+that+actually+ship+%E2%9A%A1;WebSockets+%2B+Redis+%2B+PostgreSQL+nerd+%F0%9F%A7%A0;Open+to+Backend+%2F+Full-Stack+roles+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- PROFILE VIEWS + SOCIAL BADGES -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=aryanseth9795&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  &nbsp;
   <a href="https://linkedin.com/in/aryanseth9795">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-aryanseth9795-0A66C2?logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/aryanseth9795">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-aryanseth9795-181717?logo=github&logoColor=white">
+  &nbsp;
+  <a href="mailto:iiitianaryan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://aryantechie.in">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
+</div>
+
 ---
 
-## 🚀 About
-I’m a full-stack developer building fast, reliable, and real-time apps. I also work on GenAI products—LLM-powered workflows, secure document ingestion, and SQL-based data pipelines. I enjoy clean REST APIs, optimized databases, and modern UI/UX.
+<!-- ABOUT ME SECTION -->
+<img align="right" alt="coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-- 🧑‍💻 **Current:** SDE Intern (GenAI / Full-Stack) @ UltraTech Cement Ltd. — Digital Cell  
-- 🧠 **GenAI work:** Contract intelligence, procurement chatbot, commodity news + sentiment insights  
-- 📈 **Strengths:** API design, DB schema & indexing, caching, auth, real-time systems  
-- 🧩 **DSA:** 400+ problems solved  
+### 👋 Hey, I'm Aryan
+
+```ts
+const aryan = {
+  role      : "SDE Intern (GenAI / Full-Stack)",
+  company   : "UltraTech Cement — Aditya Birla Group",
+  location  : "Jaunpur, UP, India 🇮🇳",
+  education : "B.Tech ECE — IIIT Bhagalpur ('25)",
+  focus     : ["GenAI Apps", "Real-Time Systems", "Backend Engineering"],
+  stack     : ["Next.js", "Node.js", "PostgreSQL", "Redis", "Socket.IO"],
+  dsa       : "400+ problems on LeetCode & CodeChef",
+  fun_fact  : "ECE grad who went all-in on CS 💻",
+};
+```
+
+- 🔭 Currently building **GenAI apps** @ UltraTech (contract intelligence, procurement chatbot, sentiment pulse)
+- ⚡ Built horizontally-scalable paper-trading platform handling **~1,000 concurrent users**
+- 🧠 Integrates **LLM APIs** (OpenAI, Gemini, Claude) with SQL-based data workflows
+- 🌱 Exploring **agentic workflows**, LLM pipelines & **Azure** cloud deployments
+- 💼 Actively looking for **Backend / Full-Stack SDE** roles
+
+<br/>
+
+---
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- TECH STACK SECTION -->
+<div align="center">
+
+## 🛠️ Tech Arsenal
+
+<!-- ANIMATED ICONS via skillicons -->
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,c&theme=dark" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind&theme=dark" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,prisma&theme=dark" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,postman&theme=dark" />
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
 ## 💼 Experience
-**UltraTech Cement Ltd. (Aditya Birla Group) — Digital Cell** *(Aug 2025 – Present, Remote)*  
-**SDE Intern (GenAI / Full Stack)**  
-- Built 4–5 internal GenAI apps using React/Next.js + Python with LLM APIs and SQL workflows  
-- **Navigo:** contract comparison, clause extraction, diff highlighting, risk summaries  
-- **FuelInsights:** procurement chatbot with insights, deep analysis, interactive graphs  
-- **Sentiment Pulse:** news scraping + GenAI summarization for procurement use-cases  
-- Secure doc ingestion & file upload pipelines; CI/CD and production readiness  
+
+<table>
+<tr>
+<td width="70px" align="center">
+  <img src="https://img.shields.io/badge/-A-0E76A8?style=for-the-badge&logoColor=white" alt="aditya-birla"/>
+</td>
+<td>
+  <strong>SDE Intern — GenAI / Full Stack</strong><br/>
+  <em>UltraTech Cement Ltd. (Aditya Birla Group) · Remote · Aug 2025 – Present</em><br/><br/>
+  🔹 <strong>Navigo</strong> — Contract comparison, clause extraction, diff highlighting & structured risk summaries using LLMs<br/>
+  🔹 <strong>FuelInsights</strong> — AI-powered procurement chatbot with deep analysis & interactive graphs<br/>
+  🔹 <strong>Sentiment Pulse</strong> — Web scraping + GenAI summarization for commodity news & sentiment intelligence<br/>
+  🔹 Secure doc ingestion pipelines via <strong>Azure Blob Storage</strong>; CI/CD & production-ready deployments
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Tech Stack
-**Languages:** C, C++, JavaScript, TypeScript, Python, SQL, NoSQL  
-**Frontend:** React, Next.js, Tailwind CSS, shadcn/ui, React Native (Expo)  
-**Backend:** Node.js, Express.js, REST, Socket.IO, JWT, Prisma ORM  
-**Databases:** PostgreSQL, MongoDB, MySQL, Redis  
-**GenAI:** OpenAI/ChatGPT, Gemini, Claude, Prompt Engineering, Document Understanding, Sentiment Analysis  
-**Cloud/Tools:** Azure, Vercel, Cloudinary, Docker, GitHub Actions, Postman, Git, VS Code  
+## 🚀 Featured Projects
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-</p>
+<!-- STOCK LABS -->
+<details open>
+<summary>
+  <img src="https://img.shields.io/badge/📈 Stock Labs-Crypto Paper Trading Platform-00D9FF?style=for-the-badge&logoColor=white"/>
+</summary>
 
----
+<br/>
 
-## 🔗 Featured Projects
+> **TypeScript · Next.js · Socket.IO · Redis · PostgreSQL · Prisma**
 
-### 1) UR Shop — Production E-Commerce Mobile App (Paid Project)
-Expo (React Native) • Node.js • Express • MongoDB • TanStack Query  
-Production-ready app: browse, search/filter, cart, checkout, orders. Scalable APIs and performance via caching.  
-- 🔒 **Code:** Private (Paid project)
+| Feature | Detail |
+|---------|--------|
+| ⚡ Real-time ticks | 1-second live price simulation via WebSockets |
+| 📊 Portfolio engine | Full trade history, P&L, short-selling support |
+| 🔴 Redis Pub/Sub | Distributed caching + high-throughput pipelines |
+| 📐 Scale | Validated for ~1,000 concurrent users |
+| 🔐 Auth | JWT-secured with ACID-compliant transactions |
+| 💱 Symbols | 50+ crypto trading pairs |
 
-### 2) Stock Labs — Crypto Paper-Trading Platform
-TypeScript • Next.js • Tailwind • shadcn/ui • Socket.IO • Prisma • Redis • PostgreSQL  
-1-second live tick simulation, real-time portfolio & trade history, JWT auth; Redis pub/sub + caching.  
-- 🔴 **Live:** https://stocklabs.aryantechie.in  
-- 💻 **Code:** https://github.com/aryanseth9795/stocklabs_frontend  
+[![Live Demo](https://img.shields.io/badge/🔴_Live-stocklabs.aryantechie.in-00D9FF?style=flat-square)](https://stocklabs.aryantechie.in)
+[![Source](https://img.shields.io/badge/💻_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanseth9795/stocklabs_frontend)
 
-### 3) ChatsUps — Real-Time Chat App
-Socket.IO • React • Redux • Express • MongoDB • Cloudinary  
-Real-time chat + media sharing with robust auth and responsive UX.  
-- 🔴 **Live:** https://chatsup.aryantechie.in  
-- 💻 **Code:** https://github.com/aryanseth9795/chat-app-frontend  
+</details>
 
----
+<br/>
 
-## 📊 GitHub Stats
+<!-- CHATSUP -->
+<details>
+<summary>
+  <img src="https://img.shields.io/badge/💬 ChatsUps-Real Time Chat App-7C3AED?style=for-the-badge&logoColor=white"/>
+</summary>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=aryanseth9795&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=21600"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanseth9795&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600"
-    height="165"
-  />
-</p>
+<br/>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=aryanseth9795&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
+> **Socket.IO · React · Redux · Node.js · MongoDB · Cloudinary**
+
+Real-time messaging app with media sharing, robust auth, responsive UX — built with event-driven WebSocket architecture.
+
+[![Live Demo](https://img.shields.io/badge/🔴_Live-chatsup.aryantechie.in-7C3AED?style=flat-square)](https://chatsup.aryantechie.in)
+[![Source](https://img.shields.io/badge/💻_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanseth9795/chat-app-frontend)
+
+</details>
+
+<br/>
+
+<!-- UR SHOP -->
+<details>
+<summary>
+  <img src="https://img.shields.io/badge/🛒 UR Shop-Production E--Commerce App (Paid)-F97316?style=for-the-badge&logoColor=white"/>
+</summary>
+
+<br/>
+
+> **React Native (Expo) · Node.js · Express · MongoDB · TanStack Query**
+
+Production e-commerce mobile app for a local cosmetics & grocery store — browse, cart, orders, search/filter with TanStack Query caching for blazing-fast UX on slow networks.
+
+🔒 Private Repo (Paid Project)
+
+</details>
 
 ---
 
-## ✅ What I value
-- Clean, well-documented APIs & meaningful logs  
-- Measured performance (profiling, indexes, caching)  
-- Strong DX: scripts, env examples, CI checks, readable READMEs  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryanseth9795&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanseth9795&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanseth9795&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+
+</div>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanseth9795&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+</div>
 
 ---
 
-## 🤝 Collaborate
-I’m open to GenAI + full-stack products, backend services, database design, and real-time systems. PRs and reviews are welcome on pinned projects.
+## 🏆 Achievements
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aryanseth9795&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="95%"/>
+</div>
+
+---
+
+<!-- SNAKE ANIMATION -->
+<div align="center">
+
+## 🐍 Watch My Contributions Get Eaten
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryanseth9795/aryanseth9795/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryanseth9795/aryanseth9795/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aryanseth9795/aryanseth9795/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## ✨ GenAI Stack
+
+<div align="center">
+
+| LLM | Usage |
+|-----|-------|
+| 🤖 **OpenAI / ChatGPT** | Contract analysis, structured extraction |
+| 💎 **Google Gemini** | Multimodal reasoning, document understanding |
+| 🧠 **Anthropic Claude** | Long-context analysis, risk summaries |
+| 🔧 **Prompt Engineering** | Chain-of-thought, few-shot, structured outputs |
+| ☁️ **Azure OpenAI** | Enterprise deployments & production pipelines |
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/aryanseth9795">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:iiitianaryan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://aryantechie.in">
+  <img src="https://img.shields.io/badge/Portfolio-aryantechie.in-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+> 💡 *"I don't just write code — I architect systems that scale, perform, and solve real problems."*
+
+</div>
+
+<!-- ANIMATED FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
