@@ -125,15 +125,29 @@ const aryan = {
 <table>
 <tr>
 <td width="70px" align="center">
+  <img src="https://img.shields.io/badge/-F-00D9FF?style=for-the-badge&logoColor=white" alt="filflo"/>
+</td>
+<td>
+  <strong>Software Engineer — FilFlo</strong><br/>
+  <em>Gurgaon, Haryana · May 2026 – Jun 2026</em><br/><br/>
+  🔹 Developed and maintained <strong>ERP and logistics modules</strong> on the MERN stack for brand clients in the quick-commerce space<br/>
+  🔹 Built order, inventory, and logistics workflow features within the company's ERP platform<br/>
+  🔹 Worked end-to-end across the stack — frontend interfaces through backend API/service logic
+</td>
+</tr>
+<tr>
+<td width="70px" align="center">
   <img src="https://img.shields.io/badge/-A-0E76A8?style=for-the-badge&logoColor=white" alt="aditya-birla"/>
 </td>
 <td>
-  <strong>SDE Intern — GenAI / Full Stack</strong><br/>
-  <em>UltraTech Cement Ltd. (Aditya Birla Group) · Remote · Aug 2025 – Present</em><br/><br/>
-  🔹 <strong>Navigo</strong> — Contract comparison, clause extraction, diff highlighting & structured risk summaries using LLMs<br/>
-  🔹 <strong>FuelInsights</strong> — AI-powered procurement chatbot with deep analysis & interactive graphs<br/>
-  🔹 <strong>Sentiment Pulse</strong> — Web scraping + GenAI summarization for commodity news & sentiment intelligence<br/>
-  🔹 Secure doc ingestion pipelines via <strong>Azure Blob Storage</strong>; CI/CD & production-ready deployments
+  <strong>SDE Intern (GenAI / Full Stack) — UltraTech Cement Ltd.</strong><br/>
+  <em>Aditya Birla Group · Digital Cell · Remote · Aug 2025 – Apr 2026</em><br/><br/>
+  🔹 Engineered <strong>4–5 internal GenAI applications</strong> in React/Next.js and Python; integrated OpenAI, Gemini and Claude with SQL data workflows via <strong>LangChain</strong> and <strong>LangGraph</strong> agentic pipelines<br/>
+  🔹 <strong>Navigo</strong> — architected a LangGraph multi-step agent for contract comparison and risk analysis: clause extraction, diff highlighting, structured risk summaries<br/>
+  🔹 <strong>FuelInsights</strong> — AI procurement chatbot built on LangChain RAG and tool-calling pipelines, surfacing raw-material insights with interactive graphs<br/>
+  🔹 <strong>Sentiment Pulse</strong> — commodity news intelligence via LangChain document loaders, web scraping and GenAI summarization for real-time sentiment signals<br/>
+  🔹 Implemented secure document ingestion and REST file-upload pipelines on <strong>Azure Blob Storage</strong> across all three apps<br/>
+  🔹 Owned <strong>CI/CD and production deployment</strong> across the Azure ecosystem — environment configs, error handling, monitoring
 </td>
 </tr>
 </table>
