@@ -1,14 +1,19 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aryan%20Seth&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20GenAI%20Engineer%20%7C%20Real-Time%20Systems&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aryan%20Seth&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=GenAI%20%C2%B7%20Agentic%20Systems%20%C2%B7%20Full-Stack&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- ANIMATED TYPING -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+real-time+systems+since+day+1+%F0%9F%9A%80;GenAI+apps+that+actually+ship+%E2%9A%A1;WebSockets+%2B+Redis+%2B+PostgreSQL+nerd+%F0%9F%A7%A0;Open+to+Backend+%2F+Full-Stack+roles+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=LangGraph+agents+that+ship+to+production+%F0%9F%A4%96;Real-time+systems%3A+WebSockets+%2B+Redis+%2B+Postgres+%E2%9A%A1;3+GenAI+apps+live+in+production+%F0%9F%9A%80;Open+to+Backend+%2F+Full-Stack+%2F+GenAI+roles+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
 <br/>
+
+<!-- OPEN TO WORK -->
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Backend%20%7C%20Full--Stack%20%7C%20GenAI-00D9FF?style=for-the-badge" alt="open to work"/>
+
+<br/><br/>
 
 <!-- PROFILE VIEWS + SOCIAL BADGES -->
 <p>
@@ -25,6 +30,10 @@
   <a href="https://aryantechie.in">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="https://aryantechie.in/resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
 </p>
 
 </div>
@@ -38,22 +47,22 @@
 
 ```ts
 const aryan = {
-  role      : "SDE Intern (GenAI / Full-Stack)",
-  company   : "UltraTech Cement — Aditya Birla Group",
+  status    : "Open to work — Backend / Full-Stack / GenAI",
+  recent    : ["SWE @ FilFlo", "SDE Intern @ UltraTech (Aditya Birla)"],
   location  : "Jaunpur, UP, India 🇮🇳",
-  education : "B.Tech ECE — IIIT Bhagalpur ('25)",
-  focus     : ["GenAI Apps", "Real-Time Systems", "Backend Engineering"],
-  stack     : ["Next.js", "Node.js", "PostgreSQL", "Redis", "Socket.IO"],
-  dsa       : "400+ problems on LeetCode & CodeChef",
-  fun_fact  : "ECE grad who went all-in on CS 💻",
+  education : "B.Tech ECE — IIIT Bhagalpur '25 · CGPA 7.73",
+  focus     : ["Agentic AI", "GenAI Apps", "Backend Engineering"],
+  stack     : ["Next.js", "FastAPI", "LangGraph", "PostgreSQL", "Redis"],
+  dsa       : "700+ problems on LeetCode & CodeChef",
+  shipped   : "3 GenAI apps in production @ UltraTech",
 };
 ```
 
-- 🔭 Currently building **GenAI apps** @ UltraTech (contract intelligence, procurement chatbot, sentiment pulse)
-- ⚡ Built horizontally-scalable paper-trading platform handling **~1,000 concurrent users**
-- 🧠 Integrates **LLM APIs** (OpenAI, Gemini, Claude) with SQL-based data workflows
-- 🌱 Exploring **agentic workflows**, LLM pipelines & **Azure** cloud deployments
-- 💼 Actively looking for **Backend / Full-Stack SDE** roles
+- 🤖 Built **JobberAI** — a 5-node **LangGraph** agent with a human-in-the-loop approval gate, cutting per-application cold-email effort from ~10 min to **under 60 seconds**
+- ⚡ Built **Stock Labs** — event-driven crypto paper-trading platform validated at **~1,000 concurrent users**
+- 🏭 Shipped **3 production GenAI apps** at UltraTech (Navigo, FuelInsights, Sentiment Pulse) on the Azure ecosystem
+- 🧠 **700+ DSA problems** solved across LeetCode & CodeChef · **AWS Cloud Practitioner Essentials**
+- 💼 **Open to Backend / Full-Stack / GenAI SDE roles** — [📄 Resume](https://aryantechie.in/resume.pdf)
 
 <br/>
 
