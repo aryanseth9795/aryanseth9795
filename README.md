@@ -156,46 +156,82 @@ const aryan = {
 
 ## 🚀 Featured Projects
 
-<!-- STOCK LABS -->
+<!-- JOBBERAI -->
 <details open>
 <summary>
-  <img src="https://img.shields.io/badge/📈 Stock Labs-Crypto Paper Trading Platform-00D9FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🤖 JobberAI-Autonomous Job Application Agent-00D9FF?style=for-the-badge&logoColor=white"/>
 </summary>
 
 <br/>
 
-> **TypeScript · Next.js · Socket.IO · Redis · PostgreSQL · Prisma**
+> **LangGraph · FastAPI · ChromaDB · Gemini Flash · Next.js · MongoDB · Resend API**
 
-| Feature | Detail |
-|---------|--------|
-| ⚡ Real-time ticks | 1-second live price simulation via WebSockets |
-| 📊 Portfolio engine | Full trade history, P&L, short-selling support |
-| 🔴 Redis Pub/Sub | Distributed caching + high-throughput pipelines |
-| 📐 Scale | Validated for ~1,000 concurrent users |
-| 🔐 Auth | JWT-secured with ACID-compliant transactions |
-| 💱 Symbols | 50+ crypto trading pairs |
+| Capability | Detail |
+|---|---|
+| 🧠 Multimodal intake | Parses plain-text **and screenshot** job posts; Gemini Flash extracts structured JD metadata at **>95% field-level accuracy** |
+| 🔗 5-node agent graph | JD extraction → ChromaDB semantic retrieval → duplicate detection → email synthesis → HITL approval gate |
+| ⚡ Impact | Per-application cold-email effort cut from **~10 min to under 60 s** |
+| 🔍 Dedup | Embedding-distance thresholding, **<1% false-positive** block rate on genuinely distinct roles |
+| 📬 Delivery | Bulk send via Resend API with auto-attached resume PDF + real-time delivery receipts |
+| 🗄️ Audit trail | Application metadata, email threads and status transitions persisted to MongoDB |
 
-[![Live Demo](https://img.shields.io/badge/🔴_Live-stocklabs.aryantechie.in-00D9FF?style=flat-square)](https://stocklabs.aryantechie.in)
-[![Source](https://img.shields.io/badge/💻_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanseth9795/stocklabs_frontend)
+[![Live Demo](https://img.shields.io/badge/🔴_Live-jobberai.aryantechie.in-00D9FF?style=flat-square)](https://jobberai.aryantechie.in)
+[![Backend](https://img.shields.io/badge/⚙️_Backend-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanseth9795/jobberai_backend)
+[![Frontend](https://img.shields.io/badge/💻_Frontend-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanseth9795/jobberai_frontend)
 
 </details>
 
 <br/>
 
-<!-- CHATSUP -->
+<!-- STOCK LABS -->
 <details>
 <summary>
-  <img src="https://img.shields.io/badge/💬 ChatsUps-Real Time Chat App-7C3AED?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📈 Stock Labs-Crypto Paper Trading Platform-7C3AED?style=for-the-badge&logoColor=white"/>
 </summary>
 
 <br/>
 
-> **Socket.IO · React · Redux · Node.js · MongoDB · Cloudinary**
+> **Next.js · TypeScript · ShadcnUI · Tailwind · Express · Socket.IO · Prisma · Redis · PostgreSQL**
 
-Real-time messaging app with media sharing, robust auth, responsive UX — built with event-driven WebSocket architecture.
+| Capability | Detail |
+|---|---|
+| ⚡ Real-time ticks | **1-second** live price simulation over persistent WebSocket channels |
+| 📊 Portfolio engine | Real-time P&L recomputation, time-series trade history, **50+ trading symbols** |
+| 🔴 Event-driven scale | Redis Pub/Sub decouples price-feed emission from portfolio computation → stateless worker scale-out |
+| 📐 Load validated | Sustained load at **~1,000 concurrent users** |
+| 🔐 Auth | JWT with **refresh-token rotation**, zero session-fixation exposure |
+| 🧾 Data integrity | ACID transactions via Prisma/PostgreSQL — zero anomalies under concurrent buy/sell collisions |
 
-[![Live Demo](https://img.shields.io/badge/🔴_Live-chatsup.aryantechie.in-7C3AED?style=flat-square)](https://chatsup.aryantechie.in)
-[![Source](https://img.shields.io/badge/💻_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanseth9795/chat-app-frontend)
+[![Live Demo](https://img.shields.io/badge/🔴_Live-stocklabs.aryantechie.in-7C3AED?style=flat-square)](https://stocklabs.aryantechie.in)
+[![Web](https://img.shields.io/badge/💻_Web-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanseth9795/stocklabs_frontend)
+[![API](https://img.shields.io/badge/⚙️_API-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanseth9795/stocklabs_backend)
+[![App](https://img.shields.io/badge/📱_App-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanseth9795/stocklab_app)
+
+</details>
+
+<br/>
+
+<!-- FINZZ -->
+<details>
+<summary>
+  <img src="https://img.shields.io/badge/💰 Finzz-P2P Finance App-16A34A?style=for-the-badge&logoColor=white"/>
+</summary>
+
+<br/>
+
+> **React Native (Expo) · Node.js · Express · MongoDB · Firebase FCM**
+
+| Capability | Detail |
+|---|---|
+| 📒 Dual-ledger | Private personal ledger (category-tagged debits/credits, native Indian numbering to ₹1 Crore) + collaborative shared ledgers |
+| 🤝 Mutual consent | Every shared expense fires an FCM push; counterparty must **Verify or Reject** with an optional remark — no disputed IOUs |
+| 🔄 Month-end rollover | Backend engine computes net unsettled balances and auto-generates carry-forward entries at period close |
+| 📄 Offline PDF reports | On-device generator: colour-coded Sent-vs-Received bars, auto-scaled daily spending charts, one-tap share sheet — **no server round-trip** |
+
+[![Live Demo](https://img.shields.io/badge/🔴_Live-finzz.aryantechie.in-16A34A?style=flat-square)](https://finzz.aryantechie.in)
+[![Backend](https://img.shields.io/badge/⚙️_Backend-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanseth9795/finzz-backend)
+[![Frontend](https://img.shields.io/badge/💻_Frontend-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanseth9795/Finzz-Frontend)
+[![App](https://img.shields.io/badge/📱_App-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanseth9795/finzz_app)
 
 </details>
 
@@ -204,18 +240,34 @@ Real-time messaging app with media sharing, robust auth, responsive UX — built
 <!-- UR SHOP -->
 <details>
 <summary>
-  <img src="https://img.shields.io/badge/🛒 UR Shop-Production E--Commerce App (Paid)-F97316?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🛒 UR Shop-Production E--Commerce (Paid Client)-F97316?style=for-the-badge&logoColor=white"/>
 </summary>
 
 <br/>
 
-> **React Native (Expo) · Node.js · Express · MongoDB · TanStack Query**
+> **Next.js · React Native (Expo) · Node.js · Express · MongoDB · TanStack Query**
 
-Production e-commerce mobile app for a local cosmetics & grocery store — browse, cart, orders, search/filter with TanStack Query caching for blazing-fast UX on slow networks.
+| Capability | Detail |
+|---|---|
+| 🌐 Cross-platform | Web (Next.js) + mobile (Expo) for a real cosmetics & grocery client, handling **live customer transactions** |
+| 🔎 Catalog | Search indexing, category hierarchies, multi-filter browse, full cart & checkout lifecycle |
+| 📦 Order engine | Inventory-aware order management with **stock-decrement atomicity** |
+| 🚀 Performance | **Sub-200 ms** perceived loads on 3G via TanStack Query — request dedup, stale-while-revalidate, optimistic mutations |
+| 🏗️ Standards | Feature-slice architecture, atomic component library, server-side validation, centralized error boundaries |
 
-🔒 Private Repo (Paid Project)
+[![Live Demo](https://img.shields.io/badge/🔴_Live-urshop.aryantechie.in-F97316?style=flat-square)](https://urshop.aryantechie.in)
+![Private](https://img.shields.io/badge/🔒_Repo-Private_(Paid_Engagement)-6B7280?style=flat-square)
 
 </details>
+
+<br/>
+
+### 🧰 Also Built
+
+| Project | Stack | Links |
+|---|---|---|
+| **ChatsUp** — real-time chat app | Socket.IO · React · Redux · Node.js · MongoDB · Cloudinary | [Live](https://chatsup.aryantechie.in) · [Web](https://github.com/aryanseth9795/chat-app-frontend) · [API](https://github.com/aryanseth9795/chat-app-backend) |
+| **Portfolio** — personal site | Next.js · TypeScript | [Live](https://aryantechie.in) · [Code](https://github.com/aryanseth9795/portfolio) |
 
 ---
 
