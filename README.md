@@ -178,28 +178,22 @@ Production e-commerce mobile app for a local cosmetics & grocery store — brows
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryanseth9795&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanseth9795&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanseth9795&theme=tokyonight" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanseth9795&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryanseth9795&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryanseth9795&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryanseth9795&theme=tokyonight&utcOffset=5.5" />
 
-</div>
+<br/><br/>
 
-<br/>
+<img width="60%" src="https://streak-stats.demolab.com/?user=aryanseth9795&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanseth9795&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-</div>
+<br/><br/>
 
----
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=aryanseth9795&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryanseth9795&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="95%"/>
 </div>
 
 ---
