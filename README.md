@@ -32,7 +32,7 @@
   </a>
   &nbsp;
   <a href="https://aryantechie.in/resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-View%20PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-EA4335?style=for-the-badge&logo=readdotcv&logoColor=white"/>
   </a>
 </p>
 
@@ -76,18 +76,42 @@ const aryan = {
 
 ## 🛠️ Tech Arsenal
 
-<!-- ANIMATED ICONS via skillicons -->
+**Languages**
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,c&theme=dark" />
 </p>
+
+**Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,fastapi,tailwind&theme=dark" />
 </p>
+
+**GenAI & Agentic**
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+</p>
+
+**Databases**
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,prisma&theme=dark" />
 </p>
+
+**Cloud & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,postman,vercel&theme=dark" />
+</p>
+
+**Mobile**
+<p>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase%20FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 </div>
