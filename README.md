@@ -312,17 +312,34 @@ const aryan = {
 
 ---
 
-## ✨ GenAI Stack
+## 🧠 GenAI & Agentic Stack
 
 <div align="center">
 
-| LLM | Usage |
-|-----|-------|
-| 🤖 **OpenAI / ChatGPT** | Contract analysis, structured extraction |
-| 💎 **Google Gemini** | Multimodal reasoning, document understanding |
-| 🧠 **Anthropic Claude** | Long-context analysis, risk summaries |
-| 🔧 **Prompt Engineering** | Chain-of-thought, few-shot, structured outputs |
-| ☁️ **Azure OpenAI** | Enterprise deployments & production pipelines |
+| Layer | What I use it for |
+|-------|-------------------|
+| 🕸️ **LangGraph** | Multi-step agents with explicit state-machine transitions and HITL approval gates |
+| 🔗 **LangChain** | RAG pipelines, tool-calling, document loaders, structured extraction |
+| 🗂️ **ChromaDB** | Cosine-similarity semantic retrieval over resume, project and document corpora |
+| 🤖 **OpenAI / Gemini / Claude** | Contract analysis, multimodal JD parsing, long-context risk summaries |
+| 🔧 **Prompt Engineering** | Chain-of-thought, few-shot, structured JSON outputs |
+| ☁️ **Azure** | Blob Storage ingestion, CI/CD, production GenAI deployments |
+
+</div>
+
+---
+
+## 🎓 Education & Achievements
+
+<div align="center">
+
+| | |
+|---|---|
+| 🎓 **B.Tech, Electronics & Communication Engineering** | IIIT Bhagalpur · Aug 2021 – May 2025 · **CGPA 7.73/10** |
+| 📜 **AWS Cloud Practitioner Essentials** | Cloud concepts, core services, security, compliance, pricing |
+| 🏭 **3 production GenAI apps shipped** | Navigo, FuelInsights & Sentiment Pulse — deployed and actively used internally at UltraTech |
+| 🧠 **700+ DSA problems** | Solved across LeetCode & CodeChef |
+| 🤝 **Fest volunteering** | Event planning, logistics coordination, cross-functional collaboration at college technical & cultural fests |
 
 </div>
 
@@ -342,6 +359,10 @@ const aryan = {
 &nbsp;
 <a href="https://aryantechie.in">
   <img src="https://img.shields.io/badge/Portfolio-aryantechie.in-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://aryantechie.in/resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-View%20PDF-EA4335?style=for-the-badge&logo=readdotcv&logoColor=white"/>
 </a>
 
 <br/><br/>
